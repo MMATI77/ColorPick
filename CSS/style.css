@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: cornsilk;
+}
+.title {
+    text-align: center;
+}
+
+.salida {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    width: 30%;
+    height: 5rem;
+    margin: 1rem 35%;
+    border: 1px solid #000;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    text-shadow: 1px 0 #000, 0 1px #000, -1px 0 #000, 0 -1px #000;
+}
+.color-div{
+    text-align: center;
+    margin-top: 20px;
+}
